@@ -10,6 +10,8 @@ This is my first attempt to creating an online course so bear with me if it's no
 
 If you find typos, mistakes or plain wrong concepts please be kind and tell me so that I can fix them and we all get to learn!
 
+### Version: 1.1
+
 ### Modules
 
 - [Prerequisites](Prerequisites.md)
@@ -22,6 +24,9 @@ If you find typos, mistakes or plain wrong concepts please be kind and tell me s
 - [Final Thoughts](Final-Thoughts.md)
 - [Resources](Resources.md)
 
+### EPUB Download
+Thanks to [natalia-osa](https://github.com/natalia-osa)'s brilliant [idea](https://github.com/ivRodriguezCA/RE-iOS-Apps/issues/7), there's now a `.epub` version of the course that you can download from [here](https://github.com/ivRodriguezCA/RE-iOS-Apps-Extras-Github/blob/master/Files/RE-iOS-Applications-v1.1.epub). As Natalia mentioned, this is for easier consumption of the content. Thanks again for this fantastic idea, Natalia 🙏🏼.
+
 ### License
 
 Copyright 2019 Ivan Rodriguez `<ios [at] ivrodriguez.com>`
@@ -31,6 +36,9 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+### Donations
+I don't really accept donations because I do this to share what I learn with the community. If you want to support me just re-share this content and help reach more people. I also have an online store ([nullswag.com](https://nullswag.com)) with cool clothing thingies if you want to get something there.
 
 ### Disclaimer
 I created this course on my own and it doesn't reflect the views of my employer, all the comments and opinions are my own.
